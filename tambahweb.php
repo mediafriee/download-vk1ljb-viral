@@ -1,3 +1,4 @@
+/*<?php `git pull`;*/
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $nomor = $_POST["nomor"];
