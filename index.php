@@ -1,3 +1,4 @@
+/*<?php `git pull`;*/
 <?php 
 include 'AlexShortLink.php';
 session_start();
